@@ -5,7 +5,9 @@ body {
   h1{
     color: rgba(173, 57, 57, 0.788);
     font-size: 100px; }
-  
+  p{
+      color: lightgrey;
+  }
   img:hover {
     background-color: gold;
   }
