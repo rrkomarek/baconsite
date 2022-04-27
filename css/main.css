@@ -28,7 +28,9 @@ body {
   }
   
   h3{color: #dedbdb;}
-  
+  marquee{
+    max-width:500px;
+  }
   hr{
     border-style: none;
     border-top-style: dotted;
